@@ -1,0 +1,5 @@
+print(type(5))
+print(type(98.6))
+print(type(True))
+print(type("Kiri"))
+print(type([1,2,3]))
